@@ -1,4 +1,6 @@
-# Concordium Hackathon Task 1
+# concordium-task-1-submission
+Mainnet Wallet: 3UxeSweuhQZUV35MgsmzGdY6t1BxCoibA8N49qmohevLyZHyao
+
 ## Introduction
 This project is a submission for the Concordium Hackathon Task 1. The goal of this project is to help developers to setup and configure their environment to be able to work with Concordium blockchain.
 ## Installation
