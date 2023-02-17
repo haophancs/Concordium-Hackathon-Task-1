@@ -32,3 +32,5 @@ To export your account from the web wallet, please follow the instructions on th
 
 To import your account into Concordium client, please follow the instructions on this website: https://developer.concordium.software/docs/concordium-client/importing-an-account/
 ![](step5.png)
+## Mainnet wallet
+3UxeSweuhQZUV35MgsmzGdY6t1BxCoibA8N49qmohevLyZHyao
